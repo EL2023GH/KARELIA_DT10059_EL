@@ -35,6 +35,8 @@ depositphotos_109197644-stock-photo-white-sheep-farm-animal.jpg
 Kuva lampaasta seinän vieressä
 
 10-30% kuva
+image.png 
+lampaita maastossa
 lampaanpaa.jpg
 Kuvassa lampaanpää
 
