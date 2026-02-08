@@ -5,6 +5,7 @@ Projekti: Lammastila-HUB
 Lampaista ja lammastiloista kiinnostuneille.
 
 TIEDOSTOT REPOSITORYSSÄ!
+
 Tekstitiedostot:
 Johdanto
 Tervetuloa_Lammastila_HUBiin.txt
