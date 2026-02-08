@@ -6,7 +6,7 @@ Lampaista ja lammastiloista kiinnostuneille.
 
 TIEDOSTOT REPOSITORYSSÄ!
 
-Tekstitiedostot:
+Tekstitiedostot:(kaikissa teksteissä tekoälyn ms copilotin generoimaa tekstiä)
 Johdanto
 Tervetuloa_Lammastila_HUBiin.txt
 
