@@ -27,10 +27,19 @@ Projektin kuvatiedostot:
 Taustakuvat kokoruutu:
 pixnio-5762x3841.jpg
 pixnio-6000x4000.jpg
+
 60-90% kuva
+lampaat1-kuviasuomesta.fi-ksenia-senkova-scaled.jpg
+Kuva lampaasta syö heinää
+depositphotos_109197644-stock-photo-white-sheep-farm-animal.jpg
+Kuva lampaasta seinän vieressä
 
 10-30% kuva
-LINKKI01.
+lampaanpaa.jpg
+Kuvassa lampaanpää
+
+Pieni kuva
+LINKKI01.png
 
 
 mediatiedostot:
