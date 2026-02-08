@@ -30,57 +30,12 @@ pixnio-6000x4000.jpg
 60-90% kuva
 
 10-30% kuva
-
+LINKKI01.
 
 
 mediatiedostot:
 Tallenne 2026-02-08 215313.mp4
+"lampaita"
 
 
-
-
-
-
-Kuvia Pojektiin. Lammastila HUB - Lammastilat ja tuotteet.
-Tietoa tiloista ja tuotteista.
-Infoa eläimestä.
-Yhteystiedot.
-
-Kuvien sisältö
-
-Kuvat:
-
-LammasLogot 4kpl (editoidaan omiksi)
-
-
-Lammastila kuvia
--Lammastilat
-AI kuva1
-AI kuva2
-
--Lammas
-
-AI KUVA1
-AI KUVA2
-
-
-Hubin tuottajien tuotteet:
--Villapaitoja
-
--Villalankoja
-
-
-300x400-kokoisessa kuvassaan:
-Pehmeä ja paksu harmaa villalanka
-Vaaleanharmaa kiiltävä ja tiivis villalanka
-Tummanharmaa rustiikkinen ja karkea villalanka
-Keskiharmaa sileä ja tasainen villalanka
-
-
--Villasukkia
-
-Tausta väri / kuvat ohjelmallisesti tai
-Tekstejä tekstinä CSS HTML tai
-
-Nappeja Html Css vakiona tai Boostrap valikoimasta.
-
+ 
