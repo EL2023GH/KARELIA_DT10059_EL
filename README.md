@@ -24,6 +24,14 @@ Yhteystiedot.txt
 
 
 Projektin kuvatiedostot:
+Taustakuvat kokoruutu:
+pixnio-5762x3841.jpg
+pixnio-6000x4000.jpg
+60-90% kuva
+
+10-30% kuva
+
+
 
 mediatiedostot:
 Tallenne 2026-02-08 215313.mp4
