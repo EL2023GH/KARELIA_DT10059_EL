@@ -23,8 +23,12 @@ Hubin Yhteystiedot tekstinä
 Yhteystiedot.txt
 
 
-
 Projektin kuvatiedostot:
+
+mediatiedostot:
+Tallenne 2026-02-08 215313.mp4
+
+
 
 
 
