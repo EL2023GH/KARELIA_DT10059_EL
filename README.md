@@ -9,20 +9,25 @@ TIEDOSTOT REPOSITORYSSÄ!
 Tekstitiedostot:
 
 Johdanto
-
 Tervetuloa_Lammastila_HUBiin.txt
 
 1.Alateema
- 
 Suomen_lampaat–historiaa_perinne.txt
 
 2.Alateema
-
 Lampaiden_hoidosta_ja_tilojen_arjesta.txt
 
 3.Alateema
-
 Lammastilojen_tuotteet–ekologista.txt
+
+Hubin Yhteystiedot tekstinä
+Yhteystiedot.txt
+
+
+
+Projektin kuvatiedostot:
+
+
 
 
 Kuvia Pojektiin. Lammastila HUB - Lammastilat ja tuotteet.
